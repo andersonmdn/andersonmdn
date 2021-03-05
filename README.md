@@ -9,4 +9,4 @@
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados.
 <br/> :email: &nbsp; Entre em contato comigo:
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-andre/)](https://www.linkedin.com/in/anderson-andre/) 
-<br/> [![Outlook Badge](https://img.shields.io/badge/-anderson.andre@hotmail.com-0078D4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:anderson.andre@hotmail.com)](mailto:anderson.andre@hotmail.com)
+<br/> [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andersonmdn0@hotmail.com)](mailto:andersonmdn0@hotmail.com)
